@@ -1,0 +1,13 @@
+# Block Havoc — public legal pages
+
+Public URLs for **Block Havoc: Cell Blast Puzzle** (`com.kaps.block_havoc`). The game source is a **private** repo; this repo exists so Google Play can fetch a privacy policy.
+
+**GitHub Pages:** https://kalpeshn.github.io/block-havoc-legal/
+
+| Page | Play Console |
+|------|----------------|
+| [privacy-policy.html](https://kalpeshn.github.io/block-havoc-legal/privacy-policy.html) | App content → Privacy policy |
+
+Support: batakda@gmail.com
+
+Do not put keystores, `key.properties`, or game source here.
